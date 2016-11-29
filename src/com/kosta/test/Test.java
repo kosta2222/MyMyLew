@@ -18,8 +18,9 @@ class Test{
         catch (Exception e) {
             System.out.println("Oshibka zapuska progi["+e+"]");
         }
-        System.out.println("MyMy" +
-                "u-u-u");
+        for(int i=0;i<=10;i++){
+            System.out.println("my-my");
+        }
 
     }
 }
